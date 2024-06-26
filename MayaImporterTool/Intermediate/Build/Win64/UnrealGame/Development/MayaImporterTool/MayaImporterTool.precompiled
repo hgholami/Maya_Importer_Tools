@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MayaImporterTool\\Module.MayaImporterTool.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MayaImporterTool\\MayaImporterTool.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MayaImporterTool\\MayaImporterToolBPLibrary.cpp.obj"
+	]
+}
